@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    transition: all ease .2s;
+  }
+  
+  body {
+    font-family: "Lexend Deca", sans-serif;
+    background-image: url("../images/identidade_visual/fundo-azul.png");
+  }
